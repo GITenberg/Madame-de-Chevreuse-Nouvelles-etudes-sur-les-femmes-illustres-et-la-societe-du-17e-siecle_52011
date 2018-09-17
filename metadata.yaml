@@ -1,0 +1,29 @@
+_repo: Madame-de-Chevreuse-Nouvelles-etudes-sur-les-femmes-illustres-et-la-societe-du-17e-siecle_52011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cousin, Victor
+    alias: Cousin, Vittorio
+    birthdate: 1792
+    deathdate: 1867
+    gutenberg_agent_id: '38137'
+    url: http://www.gutenberg.org/2009/agents/38137
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52011'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chevreuse, Marie de Rohan, duchesse de, 1600-1679'
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+- GITenberg
+title: 'Madame de Chevreuse
+
+  Nouvelles études sur les femmes illustres et la société du 17e siècle'
+url: http://www.gutenberg.org/ebooks/52011
